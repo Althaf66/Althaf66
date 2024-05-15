@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://visitcount.itsvg.in/api?id=Althaf&label=Profile%20Views&color=8&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Althaf&label=Profile%20Views&color=8&icon=5&pretty=false)]
