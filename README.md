@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am ALTHAF ASHARAF, final year student who loves to contribute open source.Currently I am LFX Mentee@goharbor
+I am ALTHAF ASHARAF, and I love to contribute to open source. I am a graduate LFX Mentee @goharbor
 
 
 # 💻 Tech Stack:
